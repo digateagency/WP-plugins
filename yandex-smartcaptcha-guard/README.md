@@ -4,7 +4,14 @@ Yandex SmartCaptcha Guard — легковесный WordPress-плагин дл
 
 Плагин интегрируется с пользовательскими mailer-хуками, проверяет капчу перед отправкой формы, показывает ошибки прямо под капчей и автоматически удаляет captcha-токены из писем.
 
-[Скачать последнюю версию](https://github.com/digateagency/WP-plugins/releases/latest/download/yandex-smartcaptcha-guard.zip)
+## GitHub
+
+Repository:
+https://github.com/digateagency/WP-plugins/tree/main/yandex-smartcaptcha-guard
+
+## Скачать
+
+[Скачать последнюю версию](https://github.com/digateagency/WP-plugins/releases/download/v3.8/Yandex.SmartCaptcha.Guard.v3.8.zip)
 
 ## Возможности
 
